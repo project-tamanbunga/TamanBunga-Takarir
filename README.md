@@ -1,2 +1,2 @@
-# A-1Subtitles
-Koleksi Takarir dari Garapan A-1 Fansub
+# [A-1 Fansub](https://a-1fansub.github.io/)
+Arsip Takarir A-1 Fansub
