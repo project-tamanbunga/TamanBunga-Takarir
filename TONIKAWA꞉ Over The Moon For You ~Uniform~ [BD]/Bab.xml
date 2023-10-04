@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>4008722439180055399</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>813555528350900070</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[TaBun] Prolog</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:56.040000000</ChapterTimeStart>
+      <ChapterUID>10414611449637867142</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[TaBun] Isi Cerita</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:20:45.100000000</ChapterTimeStart>
+      <ChapterUID>4994524341061525642</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[TaBun] Lagu Penutup: KanoeRana - Tsuki to Hoshizora (Bulan dan Langit Berbintang)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
